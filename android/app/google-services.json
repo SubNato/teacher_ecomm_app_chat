@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "19047311850",
+    "project_id": "ecomm-app-39549",
+    "storage_bucket": "ecomm-app-39549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19047311850:android:c32b09eda72639e5a5aa93",
+        "android_client_info": {
+          "package_name": "com.ecom.ecommTeacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19047311850-ah59qs6v9crard2ddp1p08sq9fqqcffg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotIdArg-T1mu9pjzhTAM2zgsN86aRGkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19047311850-ah59qs6v9crard2ddp1p08sq9fqqcffg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19047311850-en7mc188cf7o1emg8kenc1c2juq5btla.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tmindustry.ecomApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19047311850:android:8d2e6109ab97dd47a5aa93",
+        "android_client_info": {
+          "package_name": "com.tmindustry.ecom_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19047311850-jseld29mmil1rovgv6s9u9r095m9ec9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tmindustry.ecom_app",
+            "certificate_hash": "5b777faa18cdf64d22fa150f3429c49ec93f0ca6"
+          }
+        },
+        {
+          "client_id": "19047311850-ah59qs6v9crard2ddp1p08sq9fqqcffg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotIdArg-T1mu9pjzhTAM2zgsN86aRGkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19047311850-ah59qs6v9crard2ddp1p08sq9fqqcffg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19047311850-en7mc188cf7o1emg8kenc1c2juq5btla.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tmindustry.ecomApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
